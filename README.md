@@ -8,10 +8,6 @@
 
 
 
-<p align="center">
-
-
-</p>
 
 
 
@@ -22,6 +18,11 @@
 
 
 <img width="2048" height="24" alt="0bf25669abc522b2c572b703a19ab896" src="https://github.com/user-attachments/assets/6a6d6aaa-a554-43ab-ae01-4ace3b9150b8" />
+<p align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</p>
 
 <p align="center">
 i'll add my links later oughhhh
