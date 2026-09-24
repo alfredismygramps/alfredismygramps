@@ -35,8 +35,15 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </p>
 
-<p align="center">
-i'll add my links later oughhhh
-</p>
+
+<div align="center">
+<details>
+  <summary> dni / byi</summary>
+  
+  dni ~ basic dni, zlos , if ur under 13 please iwec, 20+, overall just don't int with me if ur a creep
+
+  byi ~ i might not talk a lot because i'm very busy, so i'm sorry if i don't respond. feel free to whisp tho!!
+</details>
+</div>
 
 <img width="1146" height="139" alt="imageedit_19_3301529001" src="https://github.com/user-attachments/assets/62dc51b6-57ed-49d6-93cb-62e878beaf9d" />
