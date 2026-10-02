@@ -38,11 +38,12 @@
 
 <div align="center">
 <details>
-  <summary> dni / byi</summary>
+  <summary> $${\color{red}dni / byi}$$</summary>
   
-  dni ~ basic dni, zlos , if ur under 13 or above 20 please iwec and overall just don't be a creep
+ 
+ dni ~ basic dni, zlos , if ur under 13 or above 20 please iwec and overall just don't be a creep
 
-  byi ~ i might not talk a lot because i'm very busy, so i'm sorry if i don't respond. feel free to whisp tho!!
+ byi ~ i might not talk a lot because i'm very busy, so i'm sorry if i don't respond. feel free to whisp tho!!
 </details>
 </div>
 
