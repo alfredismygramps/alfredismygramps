@@ -30,10 +30,12 @@
 
 
 
-<p align="center">
-  
+
+  <div align="center">
+    
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</p>
+
+</div>
 
 
 <div align="center">
@@ -41,9 +43,11 @@
   <summary> $${\color{red}dni / byi}$$</summary>
   
  
- dni ~ basic dni, zlos , if ur under 13 or above 20 please iwec and overall just don't be a creep
+ $${\color{red} dni - \space basic \space dni, \space z*os, \space if \space ur \space under \space 13 \space or \space above \space 20 \space please \space iwec \space and \space overall \space just \space don't \space be \space a \space creep}$$
 
- byi ~ i might not talk a lot because i'm very busy, so i'm sorry if i don't respond. feel free to whisp tho!!
+$${\color{red} byi \space - \space i \space might \space not \space talk \space a \space lot \space because \space i'm \space very \space busy, \space so \space i'm \space sorry \space if \space i \space don't \space respond. \space feel \space free \space to \space whisp \space tho!!}$$
+
+ $${\color{red} do \space not \space copy \space my \space skins \space / \space ask \space to \space take \space inspo}$$
 </details>
 </div>
 
