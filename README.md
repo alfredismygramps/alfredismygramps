@@ -41,7 +41,7 @@
   <a href="https://pronouns.cc/@paxbutpost-shelby
 "><b>prns</b></a> •
   <a href="https://alfredismygramps.atabook.org"><b>ata</b></a> •
- working on straw
+ $${\color{red} working \space on \space straw }$$
 </p>
 
 
