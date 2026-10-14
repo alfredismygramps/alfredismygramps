@@ -37,6 +37,13 @@
 
 </div>
 
+<p align="center">
+  <a href="https://pronouns.cc/@paxbutpost-shelby
+"><b>prns</b></a> •
+  <a href="https://alfredismygramps.atabook.org"><b>ata</b></a> •
+ working on straw
+</p>
+
 
 <div align="center">
 <details>
@@ -50,5 +57,6 @@ $${\color{red} byi \space - \space i \space might \space not \space talk \space 
  $${\color{red} do \space not \space copy \space my \space skins \space / \space ask \space to \space take \space inspo}$$
 </details>
 </div>
+
 
 <img width="1146" height="139" alt="imageedit_19_3301529001" src="https://github.com/user-attachments/assets/62dc51b6-57ed-49d6-93cb-62e878beaf9d" />
